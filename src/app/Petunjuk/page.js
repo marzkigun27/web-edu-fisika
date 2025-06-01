@@ -21,10 +21,11 @@ export default function PetunjukPage() {
           Navigasi
         </h2>
         <ul className="list-disc list-inside space-y-2 text-gray-300">
-          <li>Gunakan menu navigasi di bagian atas untuk berpindah antar halaman.</li>
-          <li>Tombol "Home" akan membawa Anda ke halaman utama.</li>
-          <li>Tombol "Materi Pembelajaran" berisi visualisasi interaktif tentang Hukum Newton.</li>
+            <li>Gunakan menu navigasi di bagian atas untuk berpindah antar halaman.</li>
+            <li>Tombol {'"Home"'} akan membawa Anda ke halaman utama.</li>
+            <li>Tombol {'"Materi Pembelajaran"'} berisi visualisasi interaktif tentang Hukum Newton.</li>
         </ul>
+
       </section>
 
       <section
